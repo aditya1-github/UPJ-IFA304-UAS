@@ -21,3 +21,9 @@ Terdapat 2 akses User Role
     2. Register pengguna baru menggunakan firebase realtime database dan authentication
     3. Melihat daftar movie
     4. Melihat detail movie
+    
+    ![image](https://user-images.githubusercontent.com/30468471/173164178-4291bc90-8438-4b63-922e-158f0b844338.png)
+    ![image](https://user-images.githubusercontent.com/30468471/173164189-aca78404-34f8-4a2e-9cf0-53416ed8bf35.png)
+    ![image](https://user-images.githubusercontent.com/30468471/173164224-1c450f4f-a9b4-42be-913d-d03ffce9f53d.png)
+    ![image](https://user-images.githubusercontent.com/30468471/173164260-a0ef9366-5db0-41b2-a0ec-60e2c0f58f04.png)
+    ![image](https://user-images.githubusercontent.com/30468471/173164266-31b7c109-fba6-4955-a376-b18739081403.png)
