@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863705126866",
+    "project_id": "proauthentication-5a9cf",
+    "storage_bucket": "proauthentication-5a9cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863705126866:android:f5001f6b0be893f6809a0b",
+        "android_client_info": {
+          "package_name": "com.example.proauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863705126866-ap9vtl01bvhrdvpos2mvt48b6oddcibv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDINTXxsN2Pva2470Ev_AUCeXBMrB8rIDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863705126866-ap9vtl01bvhrdvpos2mvt48b6oddcibv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
