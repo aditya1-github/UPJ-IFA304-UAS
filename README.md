@@ -1,7 +1,7 @@
 # UPJ-IFA304-UAS
 Repositori project mobile apps untuk persyaratan UAS mata kuliah Pemprograman Bergerak.
 
-Link Design : https://www.figma.com/file/WrVI5rtSg9QRV27JcNNgv5/IFA304-UAS-Movie-Database?node-id=35%3A44
+Link Design : https://www.figma.com/file/GSgzpEXeH3GfnFk98wH9lz/Untitled?node-id=0%3A1
 
 Terdapat 2 akses User Role
 - Admin
